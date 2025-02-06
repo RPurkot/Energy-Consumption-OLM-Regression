@@ -1,4 +1,4 @@
-# Regressão múltipla OLM para previsão de consumo de energia elétrica fabril (em kWh) baseado em horas de produção e temperatura (°C)
+# Regressão múltipla OLS para previsão de consumo de energia elétrica fabril (em kWh) baseado em horas de produção e temperatura (°C)
 
 Este repositório contém um projeto de análise e modelagem de regressão linear para prever o consumo de energia com base em variáveis como `Horas Totais` e `Temperatura Média`. 
 
